@@ -2,11 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cef3d1b-b657-4e96-af38-42ace7c97e8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos_POO/Arreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos_POO/DesviacionMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos_POO/EjecutaArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos_POO/EjecutaDesviacionMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos_POO/EjecutaSumaArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos_POO/SumaArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/EjecutaEjercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/EjecutaEjercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/EjecutaEjercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/Ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/Calificaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/EjecutaCalificaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/EjecutaNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/EjecutaSueldo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/Numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/Sueldo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaEmpleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaEmpleadoFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaEmpleadoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_seleccion/Dia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_seleccion/EjecutaEmpleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_seleccion/EjecutarDia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_seleccion/Empleado.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/diseñoPOO/Cerveza.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/diseñoPOO/EjecutaCerveza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diseñoPOO/EjecutaEstudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diseñoPOO/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Administrativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Docente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/EjecutaPersonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/EjecutaEmpleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/EmpleadoAsalariado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/EmpleadoHoras.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/intropoo/EjecutaPersona.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/intropoo/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matricesPOO/EjecutaSumaMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matricesPOO/SumaMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/EjecutaMatriz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/EjecutaMatrizTransp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/EjecutaSumaMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/Matriz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/MatrizTransp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/SumaMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Cajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaCajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaMultiplicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Multiplicacion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/poo2020/taller1/Universidad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/Universidad.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/taller1/Universidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/taller1/Universidad.java" afterDir="false" />
@@ -27,13 +81,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XREFOS3qf8zYafIEEkEl1mWqP6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -47,14 +104,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.EjecutaCerveza">
-    <configuration name="EjecutaAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="taller1.EjecutaAnimal" />
+  <component name="RunManager" selected="Application.EjecutaEmpleado">
+    <configuration name="EjecutaEmpleado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herencia_empleado.EjecutaEmpleado" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="taller1.*" />
+          <option name="PATTERN" value="herencia_empleado.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaCelular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="taller1.EjecutaCelular" />
+    <configuration name="EjecutaMatriz2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrizpoo.EjecutaMatriz2" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="taller1.*" />
+          <option name="PATTERN" value="matrizpoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaCerveza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diseñoPOO.EjecutaCerveza" />
+    <configuration name="EjecutaMatrizTransp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrizpoo.EjecutaMatrizTransp" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="diseñoPOO.*" />
+          <option name="PATTERN" value="matrizpoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaComputadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="taller1.EjecutaComputadora" />
+    <configuration name="EjecutaPersonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herencia.EjecutaPersonal" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="taller1.*" />
+          <option name="PATTERN" value="herencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaPersona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intropoo.EjecutaPersona" />
+    <configuration name="EjecutaSumaMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matricesPOO.EjecutaSumaMatrices" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intropoo.*" />
+          <option name="PATTERN" value="matricesPOO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EjecutaCerveza" />
-        <item itemvalue="Application.EjecutaPersona" />
-        <item itemvalue="Application.EjecutaCelular" />
-        <item itemvalue="Application.EjecutaComputadora" />
-        <item itemvalue="Application.EjecutaAnimal" />
+        <item itemvalue="Application.EjecutaEmpleado" />
+        <item itemvalue="Application.EjecutaPersonal" />
+        <item itemvalue="Application.EjecutaMatriz2" />
+        <item itemvalue="Application.EjecutaMatrizTransp" />
+        <item itemvalue="Application.EjecutaSumaMatrices" />
       </list>
     </recent_temporary>
   </component>
@@ -135,66 +193,91 @@
       <option name="presentableId" value="Default" />
       <updated>1581000405937</updated>
       <workItem from="1581000416076" duration="6144000" />
-      <workItem from="1581081534161" duration="14375000" />
+      <workItem from="1581081534161" duration="15242000" />
+      <workItem from="1581498235029" duration="4772000" />
+      <workItem from="1581513130201" duration="11349000" />
+      <workItem from="1581596467614" duration="6328000" />
+      <workItem from="1581686411346" duration="12796000" />
+      <workItem from="1581702665818" duration="186000" />
+      <workItem from="1582204881471" duration="6464000" />
+      <workItem from="1582237611373" duration="20872000" />
+      <workItem from="1582291841904" duration="13604000" />
+      <workItem from="1582809596083" duration="3778000" />
+      <workItem from="1582839842817" duration="4327000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Notifications" timestamp="1582208517949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1582208517949" />
     <state x="552" y="182" key="#Project_Structure" timestamp="1581000485420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1581000485420" />
-    <state x="664" y="197" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1581095472294">
+    <state x="664" y="197" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1582843548938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="664" y="197" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581095472294" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581097795728">
+    <state x="664" y="197" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582843548938" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582844808355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581097795728" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581097795728">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582844808355" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582844808355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581097795728" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581097795728">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582844808355" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582844808355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581097795728" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581097795728">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582844808355" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582844808355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581097795728" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581086672219">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582844808355" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582306823826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581086672219" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1581086672219">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582306823826" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1582306823826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581086672219" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1581086672219">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582306823826" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1582306823826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581086672219" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1581086672219">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582306823826" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1582306823826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581086672219" />
-    <state x="668" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1581081539386">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582306823826" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1582207751613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581081539386" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582207751613" />
+    <state x="668" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1582839847086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582839847086" />
+    <state x="668" y="146" key="refactoring.ChangeSignatureDialog" timestamp="1582208306755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="146" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582208306755" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1581097208060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581097208060" />
-    <state x="623" y="225" key="search.everywhere.popup" timestamp="1581003530662">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582275226285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581003530662" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582275226285" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/poo2020$EjecutaTiempo.ic" NAME="EjecutaTiempo Coverage Results" MODIFIED="1581084212252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
